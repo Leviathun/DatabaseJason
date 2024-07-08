@@ -32,6 +32,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 5555555,
+      "category": "Funny thing",
+      "title": "Make you fun",
+      "description": "Show company.",
+      "location": "Show House",
+      "date": "July 55, 2022",
+      "time": "16:00",
+      "petsAllowed": true,
+      "organizer": "Show u wow"
     }
   ]
 }
